@@ -1,8 +1,8 @@
 ﻿# Rajat Singh
 
-**Data Analyst** Â· Excel Â· SQL Â· Tableau Â· Power BI Â· Python
+**Data Analyst** · Excel · SQL · Tableau · Power BI · Python
 
-ðŸ“ Meerut, Uttar Pradesh, India Â· Open to Remote / Hybrid / Relocation
+ Meerut, Uttar Pradesh, India Â· Open to Remote / Hybrid / Relocation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatsingh-dataanalyst)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rajatrvs34@gmail.com)
