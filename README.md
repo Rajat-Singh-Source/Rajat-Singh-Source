@@ -56,7 +56,7 @@ and an analysis showing that only **45.5% of ride bookings complete**.
 
 ## 🚀 Featured Projects
 
-### 1. [Customer Satisfaction Prediction — Olist E-commerce · Capstone](https://github.com/Rajat-Singh-Source/data-analytics-portfolio/tree/main/01-customer-satisfaction-olist)
+### 1. [Customer Satisfaction Prediction — Olist E-commerce · Capstone](https://github.com/Rajat-Singh-Source/olist-customer-satisfaction)
 `Python` `Pandas` `LightGBM` `SHAP` `LIME`
 
 Merged **9 relational tables** into a leakage-safe, order-level dataset of **95,823 orders** and
@@ -64,14 +64,14 @@ built a LightGBM classifier that catches **72.5% of unsatisfied orders (0.715 RO
 can act before bad reviews arrive. SHAP/LIME identified delivery delay, delivery time and seller
 history as the main drivers, leading to proactive delay alerts and closer seller monitoring.
 
-### 2. [Namma Yatri — Ride Demand & Cancellation Analysis](https://github.com/Rajat-Singh-Source/data-analytics-portfolio/tree/main/02-namma-yatri)
+### 2. [Namma Yatri — Ride Demand & Cancellation Analysis](https://github.com/Rajat-Singh-Source/namma-yatri-ride-analysis)
 `Python` `Pandas` `SQL` `Power BI` `Tableau`
 
 Integrated **5 relational tables** with Pandas and showed that only **45.5% of bookings complete**,
 with cancellations split almost evenly between customers (**48.2%**) and drivers (**47.3%**).
 Identified peak hours and high-performing zones to guide operational improvements.
 
-### 3. [CardioRisk — Cardiovascular Disease Prediction](https://github.com/Rajat-Singh-Source/data-analytics-portfolio/tree/main/03-cardiorisk-prediction)
+### 3. [CardioRisk — Cardiovascular Disease Prediction](https://github.com/Rajat-Singh-Source/cardiorisk-cvd-prediction)
 `Python` `scikit-learn` `EDA`
 
 Cleaned **70,000 patient records → 68,648 valid rows** with physiological validity rules and
