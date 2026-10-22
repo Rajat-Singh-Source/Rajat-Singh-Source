@@ -31,42 +31,38 @@ findings to non-technical stakeholders.
 
 ## 🚀 Featured Projects
 
-### 1. Customer Satisfaction Prediction — Olist E-commerce · Capstone
+### 1. [Customer Satisfaction Prediction — Olist E-commerce · Capstone](https://github.com/Rajat-Singh-Source/data-analytics-portfolio/tree/main/01-customer-satisfaction-olist)
 `Python` `Pandas` `LightGBM` `scikit-learn` `SHAP` `LIME`
 - Merged **9 relational tables** into an order-level dataset of **~95,800 orders** with leakage-safe feature engineering.
 - Compared and tuned classification models; **LightGBM reached 0.715 ROC-AUC** with **72.5% recall** on dissatisfied orders at the selected threshold.
 - Used **SHAP/LIME** to show delivery delay, delivery time and seller history as key dissatisfaction drivers → proactive operational recommendations.
 
-### 2. Namma Yatri — Ride Demand & Revenue Analysis
+### 2. [Namma Yatri — Ride Demand & Revenue Analysis](https://github.com/Rajat-Singh-Source/data-analytics-portfolio/tree/main/02-namma-yatri)
 `Python` `Pandas` `SQL` `Power BI` `Tableau`
 - Integrated and cleaned **5 relational tables** into a unified ride/revenue dataset.
 - Analysed demand and revenue by hour and zone → identified peak hours and high-performing areas.
 - Funnel analysis found a **45.5% completion rate**, with near-equal customer (**48.2%**) and driver (**47.3%**) cancellation rates → operational recommendations.
 
-### 3. CardioRisk — Cardiovascular Disease Prediction
+### 3. [CardioRisk — Cardiovascular Disease Prediction](https://github.com/Rajat-Singh-Source/data-analytics-portfolio/tree/main/03-cardiorisk-prediction)
 `Python` `scikit-learn` `EDA` `Feature Engineering`
 - Cleaned **70,000 patient records → 68,648 valid rows** using physiological BP, height and weight rules.
 - Engineered BMI and age features; compared Logistic Regression, Decision Tree and Random Forest.
 
-### 4. NYC Yellow Taxi — Operations EDA
+### 4. [NYC Yellow Taxi — Operations EDA](https://github.com/Rajat-Singh-Source/data-analytics-portfolio/tree/main/04-nyc-taxi-eda)
 `Python` `Pandas` `Matplotlib` `Seaborn`
 - Analysed **~1.89M trips** from 2023 parquet data; fixed schema drift (duplicate `airport_fee` columns) and imputed missing values.
 - Visualised trip demand, fare and tip patterns to recommend service-efficiency improvements.
 
-### 5. Bank Data Analysis — PySpark ETL
+### 5. [Bank Data Analysis — PySpark ETL](https://github.com/Rajat-Singh-Source/data-analytics-portfolio/tree/main/05-bank-etl-pyspark)
 `PySpark` `Pandas` `Seaborn`
 - Scraped and transformed the *Largest Banks* dataset with **PySpark**, parsed market cap into numeric USD billions, and handled nulls/outliers.
 - Produced rankings, quartile segmentation and concentration analysis of global market cap.
 
-### 6. Used Car Price Prediction — Regression
+### 6. [Used Car Price Prediction — Regression](https://github.com/Rajat-Singh-Source/data-analytics-portfolio/tree/main/06-car-price-regression)
 `Python` `scikit-learn` `Ridge/Lasso`
 - Built a regularised regression pipeline (**test R² ≈ 0.92**), with coefficient analysis for feature importance and overfitting control.
 
-### 7. RAG for Legal Documents
-`Python` `LangChain` `Vector Search` `NLP`
-- Cleaned and chunked NDA/contract text, ran EDA on document structure and built retrieval-ready embeddings for a RAG Q&A pipeline.
-
-> 📁 More notebooks and reports in **[data-analytics-portfolio](https://github.com/Rajat-Singh-Source/data-analytics-portfolio)**
+> 📁 Code, notebooks and reports for every project: **[data-analytics-portfolio](https://github.com/Rajat-Singh-Source/data-analytics-portfolio)**
 
 ---
 
