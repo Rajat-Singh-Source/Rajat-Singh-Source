@@ -1,39 +1,99 @@
-Hi, I'm Rajat Singh 👋
+# Hi, I'm Rajat Singh 👋
 
-Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau
+**Data Analyst** · Python · SQL · Power BI · Tableau · Excel
+📍 Meerut, India · Open to Remote / Hybrid / Relocation
 
-I'm building my skills in Data Analytics and Data Science through hands-on learning and practical projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatsingh-dataanalyst)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rajatrvs34@gmail.com)
 
-🎯 My Focus Areas
-
-- Data Cleaning and Exploratory Data Analysis
-- SQL for Business Analytics
-- Data Visualization and Dashboards
-- Python and Machine Learning
-
-🛠️ Technologies I'm Learning
-
-- Python, Pandas, NumPy
-- SQL
-- Microsoft Excel
-- Power BI and Tableau
-- Scikit-learn
-
-📚 Currently Working On
-
-- Strengthening my data analysis skills
-- Building practical portfolio projects
-- Learning Machine Learning fundamentals
-- Developing interactive dashboards
-
-🚀 My Goal
-
-To use data-driven insights to solve real-world business problems and grow as a Data Analyst.
-
-🤝 Connect With Me
-
-- "LinkedIn" (https://www.linkedin.com/in/rajat-singh-13494231/)
+Entry-level Data Analyst with an **Executive Diploma in Data Science & AI from IIIT Bangalore (upGrad)**.
+I turn messy, multi-table data into clean datasets, dashboards and models that answer business questions.
+Background as a Mathematics teacher → strong statistics, structured problem-solving, and explaining
+findings to non-technical stakeholders.
 
 ---
 
-Learning by doing, one project at a time.
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-025B5B?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Customer Satisfaction Prediction — Olist E-commerce · Capstone
+`Python` `Pandas` `LightGBM` `scikit-learn` `SHAP` `LIME`
+- Merged **9 relational tables** into an order-level dataset of **~95,800 orders** with leakage-safe feature engineering.
+- Compared and tuned classification models; **LightGBM reached 0.715 ROC-AUC** with **72.5% recall** on dissatisfied orders at the selected threshold.
+- Used **SHAP/LIME** to show delivery delay, delivery time and seller history as key dissatisfaction drivers → proactive operational recommendations.
+
+### 2. Namma Yatri — Ride Demand & Revenue Analysis
+`Python` `Pandas` `SQL` `Power BI` `Tableau`
+- Integrated and cleaned **5 relational tables** into a unified ride/revenue dataset.
+- Analysed demand and revenue by hour and zone → identified peak hours and high-performing areas.
+- Funnel analysis found a **45.5% completion rate**, with near-equal customer (**48.2%**) and driver (**47.3%**) cancellation rates → operational recommendations.
+
+### 3. CardioRisk — Cardiovascular Disease Prediction
+`Python` `scikit-learn` `EDA` `Feature Engineering`
+- Cleaned **70,000 patient records → 68,648 valid rows** using physiological BP, height and weight rules.
+- Engineered BMI and age features; compared Logistic Regression, Decision Tree and Random Forest.
+
+### 4. NYC Yellow Taxi — Operations EDA
+`Python` `Pandas` `Matplotlib` `Seaborn`
+- Analysed **~1.89M trips** from 2023 parquet data; fixed schema drift (duplicate `airport_fee` columns) and imputed missing values.
+- Visualised trip demand, fare and tip patterns to recommend service-efficiency improvements.
+
+### 5. Bank Data Analysis — PySpark ETL
+`PySpark` `Pandas` `Seaborn`
+- Scraped and transformed the *Largest Banks* dataset with **PySpark**, parsed market cap into numeric USD billions, and handled nulls/outliers.
+- Produced rankings, quartile segmentation and concentration analysis of global market cap.
+
+### 6. Used Car Price Prediction — Regression
+`Python` `scikit-learn` `Ridge/Lasso`
+- Built a regularised regression pipeline (**test R² ≈ 0.92**), with coefficient analysis for feature importance and overfitting control.
+
+### 7. RAG for Legal Documents
+`Python` `LangChain` `Vector Search` `NLP`
+- Cleaned and chunked NDA/contract text, ran EDA on document structure and built retrieval-ready embeddings for a RAG Q&A pipeline.
+
+> 📁 More notebooks and reports in **[data-analytics-portfolio](https://github.com/Rajat-Singh-Source/data-analytics-portfolio)**
+
+---
+
+## 💼 Experience
+
+**PGT Mathematics Teacher** — SR International School, Meerut · *Apr 2025 – Present*
+- Tracked and analysed student performance data to find learning gaps and adapt teaching strategies.
+- Used data-driven assessments and intervention plans to measurably improve outcomes.
+- Explained complex statistical concepts clearly to students and colleagues.
+
+## 🎓 Education
+
+**IIIT Bangalore (upGrad)** — Executive Diploma, Data Science & AI · *2026*
+Python · SQL · Machine Learning · Power BI · Tableau · Big Data
+
+**RK College, CCS University** — BSc Physics, Chemistry, Mathematics · *2022*
+Calculus · Linear Algebra · Probability & Statistics
+
+---
+
+## 📈 GitHub Stats
+
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajat-Singh-Source&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-Singh-Source&layout=compact&hide_border=true)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=Rajat-Singh-Source&color=blue)
+
+*Learning by doing, one project at a time.*
